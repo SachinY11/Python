@@ -8,3 +8,4 @@
    - Dictionary
    - Function
    - OOP : Class and Object
+   - Encapsulation and Static keyword

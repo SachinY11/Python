@@ -8,4 +8,5 @@
    - Dictionary
    - Function
    - OOP : Class and Object
-   - Encapsulation and Static keyword
+   - OOP : Encapsulation and Static keyword
+   - OOP : Inheritance and Abstraction

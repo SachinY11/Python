@@ -15,3 +15,5 @@
    - Namespaces and Decorators
    - Iterators
    - Generators
+   - NLP Project using Tkinter
+   - Numpy
